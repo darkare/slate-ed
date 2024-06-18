@@ -1,6 +1,6 @@
 {
-  "name": "@strapi/slate-ed",
-  "version": "1.0.0",
+  "name": "slate-ed",
+  "version": "1.0.1",
   "description": "This is the description of the plugin.",
   "strapi": {
     "name": "slate-ed",
@@ -25,7 +25,8 @@
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
     "slate": "^0.103.0",
-    "slate-react": "^0.105.0"
+    "slate-react": "^0.105.0",
+    "usehooks-ts": "^3.1.0"
   },
   "devDependencies": {
     "@strapi/strapi": "^4.25.0",
